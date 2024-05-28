@@ -1,4 +1,4 @@
-## . Problem Statement
+## Problem Statement
 
 To address our analysis, we need to respond to the subsequent inquiries:
 

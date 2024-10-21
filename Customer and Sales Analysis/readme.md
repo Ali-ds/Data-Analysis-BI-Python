@@ -1,1 +1,1 @@
-Analysis on Customers and Sales
+Analysis on Customers and Sales in the US Region for an anonymous retail/distributors
